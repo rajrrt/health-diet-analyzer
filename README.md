@@ -1,7 +1,7 @@
 # Health & Diet Analyzer for Hostel Students (Java)
 
-**Student:** GAURAV BHARDWAJ  
-**Reg:** 24BSA10187
+**Student:** RAJ RATAN
+**Reg:** 24BCE10959
 
 This is a Java console application skeleton for the course project "Health & Diet Analyzer for Hostel Students".
 
